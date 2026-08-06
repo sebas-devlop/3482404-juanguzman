@@ -4,7 +4,7 @@ public class Ejercicio2 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
-        System.out.print("¿Cuántos estudiantes hay.?: ");
+        System.out.print("¿Cuántos estudiantes hay?: ");
         int n = sc.nextInt();
 
         double[] notas = new double[n];
