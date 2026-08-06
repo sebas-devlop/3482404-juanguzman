@@ -4,7 +4,7 @@ public class Ejercicio6 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
-        System.out.print("¿Cuántos votos se van a registrar?: ");
+        System.out.print("¿Cuántos votos se van a registrar.?: ");
         int n = sc.nextInt();
 
         String[] votos = new String[n];
