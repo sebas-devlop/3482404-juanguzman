@@ -4,7 +4,7 @@ public class Ejercicio4 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
-        System.out.print("¿Cuántas temperaturas va a registrar.?: ");
+        System.out.print("¿Cuántas temperaturas va a registrar?: ");
         int n = sc.nextInt();
 
         int[] temperaturas = new int[n];
